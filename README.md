@@ -3,8 +3,8 @@
 
 
 # 🚀 InstaScrape API: Unleash the Power of Instagram Data! 🚀
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2dabead1e5b654e33f02a9c36101738/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Fast & Reliable](https://img.shields.io/badge/Fast%20&%20Reliable-%F0%9F%9A%80-brightgreen)](https://github.com/makovez/InstaScrape)
+[![Undetectable](https://img.shields.io/badge/Undetectable-%F0%9F%AA%9E-blue)](https://github.com/makovez/InstaScrape)
 
 Welcome to the **InstaScrape API**, your gateway to effortlessly extracting valuable data from Instagram! Whether you need to analyze follower growth, gather user insights, or track engagement metrics, our API provides a robust and efficient solution. Inspired by powerful libraries like [Instagrapi](https://github.com/subzeroid/instagrapi?tab=readme-ov-file), [Ensta](https://github.com/diezo/Ensta), and [instagram-private-api](https://github.com/ping/instagram_private_api), InstaScrape is designed for ease of use and scalability.
 
